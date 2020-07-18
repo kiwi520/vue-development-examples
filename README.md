@@ -1,4 +1,11 @@
 # vue-components
+##  vue-components-list
+name | path
+---- | ---
+Tree | src/components/tree
+Form | src/components/form
+modelNotice | src/components/notice
+icons | src/components/icons
 
 ## Project setup
 ```
