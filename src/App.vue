@@ -6,6 +6,7 @@
 <!--    <Tree></Tree>-->
 <!--    <Index></Index>-->
     <svg-icon icon-class="qq" class-name="qq-style"></svg-icon>
+      <slideshow></slideshow>
   </div>
 </template>
 
@@ -13,12 +14,14 @@
 // import HelloWorld from './components/HelloWorld.vue'
 // import Index from '@/components/form/index'
 // import Tree from '@/components/tree/index'
+import slideshow from '@/components/slideshow/index';
 export default {
   name: 'App',
   components: {
     // HelloWorld,
     // Tree,
     // Index
+      slideshow
   }
 }
 </script>
